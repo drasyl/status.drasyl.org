@@ -46,19 +46,19 @@
     "url": "http://sp-nyc1.drasyl.org:443",
     "icon": "https://docs.drasyl.org/img/favicon.ico",
     "slug": "super-peer-new-york-city-1-usa",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "91.18%",
+    "uptimeWeek": "98.74%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.98%",
     "time": 189,
-    "timeDay": 262,
-    "timeWeek": 236,
-    "timeMonth": 188,
+    "timeDay": 264,
+    "timeWeek": 240,
+    "timeMonth": 190,
     "timeYear": 192,
     "dailyMinutesDown": {
-      "2025-02-25": 0
+      "2025-02-25": 127
     }
   },
   {
