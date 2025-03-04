@@ -46,18 +46,19 @@
     "url": "http://sp-nyc1.drasyl.org:443",
     "icon": "https://docs.drasyl.org/img/favicon.ico",
     "slug": "super-peer-new-york-city-1-usa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "92.16%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "92.23%",
     "uptimeMonth": "98.20%",
     "uptimeYear": "99.85%",
     "time": 190,
     "timeDay": 81,
     "timeWeek": 225,
-    "timeMonth": 197,
+    "timeMonth": 196,
     "timeYear": 194,
     "dailyMinutesDown": {
+      "2025-03-04": 0,
       "2025-02-26": 596,
       "2025-02-25": 194
     }
@@ -67,18 +68,19 @@
     "url": "http://sp-sgp1.drasyl.org:443",
     "icon": "https://docs.drasyl.org/img/favicon.ico",
     "slug": "super-peer-singapur-1-singapur",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 521,
     "timeDay": 590,
     "timeWeek": 531,
-    "timeMonth": 526,
+    "timeMonth": 521,
     "timeYear": 524,
     "dailyMinutesDown": {
+      "2025-03-04": 0,
       "2024-05-29": 11
     }
   }
