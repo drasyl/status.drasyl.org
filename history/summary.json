@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 417,
-    "timeDay": 373,
-    "timeWeek": 369,
-    "timeMonth": 452,
+    "timeDay": 363,
+    "timeWeek": 358,
+    "timeMonth": 455,
     "timeYear": 434,
     "dailyMinutesDown": {
       "2024-07-29": 52,
@@ -30,15 +30,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.83%",
+    "uptimeYear": "99.93%",
     "time": 380,
-    "timeDay": 375,
-    "timeWeek": 384,
-    "timeMonth": 343,
+    "timeDay": 356,
+    "timeWeek": 374,
+    "timeMonth": 346,
     "timeYear": 381,
-    "dailyMinutesDown": {
-      "2024-04-22": 470
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Super-Peer New York City 1, USA",
@@ -52,10 +50,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 191,
-    "timeDay": 208,
-    "timeWeek": 210,
-    "timeMonth": 167,
-    "timeYear": 193,
+    "timeDay": 187,
+    "timeWeek": 212,
+    "timeMonth": 171,
+    "timeYear": 194,
     "dailyMinutesDown": {
       "2025-03-04": 10,
       "2025-02-26": 596,
@@ -74,9 +72,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 523,
-    "timeDay": 618,
-    "timeWeek": 571,
-    "timeMonth": 501,
+    "timeDay": 623,
+    "timeWeek": 594,
+    "timeMonth": 503,
     "timeYear": 523,
     "dailyMinutesDown": {
       "2025-03-05": 14,
