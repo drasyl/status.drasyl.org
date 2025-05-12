@@ -25,18 +25,20 @@
     "url": "http://sp-rjl1.drasyl.org:22443",
     "icon": "https://docs.drasyl.org/img/favicon.ico",
     "slug": "super-peer-logrono-1-spain",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 382,
+    "time": 381,
     "timeDay": 428,
     "timeWeek": 387,
     "timeMonth": 392,
     "timeYear": 382,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-12": 0
+    }
   },
   {
     "name": "Super-Peer New York City 1, USA",
