@@ -6,6 +6,8 @@ sites:
   - name: Super-Peer Stockholm, Sweden
     url: "http://sp-rjl1.drasyl.org:9898"
     icon: https://docs.drasyl.org/img/favicon.ico
+    expectedStatusCodes:
+      - 404
   - name: Super-Peer New York City 1, USA
     url: "http://sp-nyc1.drasyl.org:9898"
     icon: https://docs.drasyl.org/img/favicon.ico
